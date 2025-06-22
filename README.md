@@ -94,8 +94,10 @@
 </p>
 <br>
 <!-- Snake Contribution Animation -->
+<h2 align="center">Snake Contribution Animation : </h2>
+
 <p align="center">
-  <img src="https://github.com/nisha-mallick/nisha-mallick/blob/output/github-contribution-grid-snake.svg" alt="snake contribution animation" />
+  <img src="https://raw.githubusercontent.com/Nisha-Mallick/Nisha-Mallick/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 <br><br />
