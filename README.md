@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nisha Mallick</h1>
 <p align="center">
-  <img src="" alt="Nisha Mallick Banner" />
+  <img src="https://github.com/Nisha-Mallick/Nisha-Mallick/blob/main/github_banner.png" alt="Nisha Mallick Banner" />
 </p>
 <br>
 <h3 align="center">A passionate Bsc IT student with an innovative mind, driven to build impactful and creative solutions — on a mission to make a lasting impact in the tech world.</h3>
