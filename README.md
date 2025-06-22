@@ -19,11 +19,11 @@
 <br>
 <div align="left">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,tailwind,powershell,figma" />
   </a>
  <br> <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,nodejs,react,mongodb,mysql,gcp,linux,git" />
+    <img src="https://skillicons.dev/icons?i=django,nodejs,react,mongodb,mysql,gcp,linux,git,github,kali" />
   </a>
   <!-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
