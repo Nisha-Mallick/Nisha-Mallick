@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nisha Mallick</h1>
+<p align="center">
+  <img src="" alt="Nisha Mallick Banner" />
+</p>
+<br>
 <h3 align="center">A passionate Bsc IT student with an innovative mind, driven to build impactful and creative solutions — on a mission to make a lasting impact in the tech world.</h3>
 
 <br>
-
-- 🔭 I’m currently working on [SikhshaGuardinas](https://github.com/Nisha-Mallick/Team-Sikhsha-Project)
+- 🔭 I’m currently working on [SikhshaGuardinas.com](https://github.com/Nisha-Mallick/Team-Sikhsha-Project)
 
 - 🌱 I’m currently learning **Javascript,Reactjs,AWS.**
 
@@ -72,11 +75,6 @@
 </p>
 <br>
 
-<!-- Snake Contribution Animation -->
-<p align="center">
-  <img src="https://github.com/nisha-mallick/nisha-mallick/blob/output/github-contribution-grid-snake.svg" alt="snake contribution animation" />
-</p>
-
 <!-- Profile Views Badge -->
 <p align="left">
   <img
@@ -94,9 +92,13 @@
     />
   </a>
 </p>
-
-
 <br>
+<!-- Snake Contribution Animation -->
+<p align="center">
+  <img src="https://github.com/nisha-mallick/nisha-mallick/blob/output/github-contribution-grid-snake.svg" alt="snake contribution animation" />
+</p>
+
+<br><br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nisha mallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nisha mallick" height="30" width="40" /></a>
