@@ -92,13 +92,6 @@
     />
   </a>
 </p>
-<br>
-<!-- Snake Contribution Animation -->
-<h2 align="center">Snake Contribution Animation : </h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nisha-Mallick/Nisha-Mallick/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
 
 <br><br />
 <h3 align="left">Connect with me:</h3>
