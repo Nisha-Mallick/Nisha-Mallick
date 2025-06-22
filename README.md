@@ -6,13 +6,13 @@
 <h3 align="center">A passionate Bsc IT student with an innovative mind, driven to build impactful and creative solutions — on a mission to make a lasting impact in the tech world.</h3>
 
 <br>
-- 🔭 I’m currently working on [SikhshaGuardinas.com](https://github.com/Nisha-Mallick/Team-Sikhsha-Project)
+- 🔭 I’m currently working on : [SikhshaGuardinas.com] (https://github.com/Nisha-Mallick/Team-Sikhsha-Project)
 
-- 🌱 I’m currently learning **Javascript,Reactjs,AWS.**
+- 🌱 I’m currently learning : **Javascript,Reactjs,AWS.**
 
-- 📫 How to reach me **nishamallici821@gmail.com**
+- 📫 How to reach me : **nishamallici821@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15Vl-TEAJ-DZniHIuSZGt3ol2qXNiLscl/view?usp=sharing](https://drive.google.com/file/d/15Vl-TEAJ-DZniHIuSZGt3ol2qXNiLscl/view?usp=sharing)
+- 📄 Know about my experiences : [https://drive.google.com/file/d/15Vl-TEAJ-DZniHIuSZGt3ol2qXNiLscl/view?usp=sharing](https://drive.google.com/file/d/15Vl-TEAJ-DZniHIuSZGt3ol2qXNiLscl/view?usp=sharing)
 <br>
 
 <h3 align="left"> Technical Skills and Languages :</h3>
