@@ -19,7 +19,7 @@
 <br>
 <div align="left">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,tailwind,powershell,figma" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,tailwind,powershell,ubuntu" />
   </a>
  <br> <br/>
   <a href="https://skillicons.dev">
