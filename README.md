@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Bsc IT student with an innovative mind, driven to build impactful and creative solutions — on a mission to make a lasting impact in the tech world.</h3>
 
 <br>
-- 🔭 I’m currently working on : [Novaistic.in] ( https://github.com/Nisha-Mallick/Novaistic.in )
+- 🔭 I’m currently working on : [ViscaraiAssist.com] ( https://github.com/Nisha-Mallick/ViscaraiAssist )
 
 - 🌱 I’m currently learning : **Javascript,Reactjs,AWS.**
 
