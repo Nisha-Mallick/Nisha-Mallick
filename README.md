@@ -25,6 +25,10 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,nodejs,react,mongodb,mysql,gcp,linux,git,github,kali" />
   </a>
+  <br> <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase" />
+  </a>
   <!-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
