@@ -3,7 +3,7 @@
  <img src="https://github.com/Nisha-Mallick/Nisha-Mallick/blob/main/github_banner.png" alt="Nisha Mallick Banner" width="1200"/>
 </div>
 <br>
-<h3 align="center">A passionate Bsc IT student with an innovative mind, driven to build impactful and creative solutions — on a mission to make a lasting impact in the tech world.</h3>
+<h3 align="center">A passionate Bsc IT student with an innovative mind, driven to build impactful and creative solutions - on a mission to make a lasting impact in the tech world.</h3>
 
 <br>
 - 🔭 I’m currently working on : [ViscaraiAssist.com] ( https://github.com/Nisha-Mallick/ViscaraiAssist )
