@@ -15,7 +15,7 @@
 
 - 📫 How to reach me : **nishamallici821@gmail.com**
 
-- 📄 Know about my experiences : [https://drive.google.com/file/d/15Vl-TEAJ-DZniHIuSZGt3ol2qXNiLscl/view?usp=sharing](https://drive.google.com/file/d/15Vl-TEAJ-DZniHIuSZGt3ol2qXNiLscl/view?usp=sharing)
+- 📄 Know about my experiences : [https://drive.google.com/file/d/15Vl-TEAJ-DZniHIuSZGt3ol2qXNiLscl/view?usp=sharing](https://drive.google.com/drive/folders/1Bw1R54Xt-l3dqwzmCwV6RLwLE5qT8Pji?usp=sharing)
 <br>
 
 <h3 align="left"> <img src="Technology.png" width="28"/>
